@@ -1,0 +1,64 @@
+{
+  "Navigation": {
+    "about": "About Institute",
+    "departments": "Departments",
+    "faculties": "Faculties",
+    "news": "News",
+    "services": "Interactive Services",
+    "admission": "Admission",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "Tashkent Institute of Economics and Pedagogy.",
+    "contact": "Contact us"
+  },
+  "Count": {
+    "number": "In Numbers",
+    "students": "Students",
+    "teachers": "Teachers",
+    "grants": "Grants",
+    "billion_value": "Billion Value"
+  },
+  "footer": {
+    "title": "Tashkent Institute of Economics and Pedagogy",
+    "address": {
+      "city": "Tashkent region, Chirchik city",
+      "street": "13 Metallurgists street"
+    },
+    "contacts": {
+      "phone": "Phone:",
+      "email": "Email:"
+    },
+    "about": {
+      "title": "About Institute",
+      "history": "Institute History",
+      "license": "Institute License",
+      "administration": "Administration",
+      "management": "Management"
+    },
+    "departments": {
+      "title": "Departments",
+      "finance": "Planning and Finance Department",
+      "office": "Office",
+      "spiritual": "Department of Spirituality and Enlightenment",
+      "scientific": "Scientific Department",
+      "educational": "Educational Department"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "title": "Send a Message",
+      "name": {
+        "placeholder": "Your Name"
+      },
+      "phone": {
+        "placeholder": "+998"
+      },
+      "message": {
+        "placeholder": "Message"
+      },
+      "submit": "Send"
+    }
+  }
+}

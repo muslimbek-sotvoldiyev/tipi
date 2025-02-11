@@ -1,0 +1,65 @@
+{
+  "Navigation": {
+    "about": "Institut haqida",
+    "departments": "Bo'limlar",
+    "faculties": "Fakultetlar",
+    "news": "Yangiliklar",
+    "services": "Interaktiv xizmatlar",
+    "admission": "Qabul",
+    "contact": "Bog'lanish"
+  },
+  "Hero": {
+    "title": "Toshkent Iqtisodiyot va Pedagogika Instituti.",
+    "contact": "Contact us"
+  },
+
+  "Count": {
+    "number": "Sonlarda",
+    "students": "Talabalar",
+    "teachers": "O‘qituvchilar",
+    "grants": "Grandlar",
+    "billion_value": "Milliard qiymatli"
+  },
+  "footer": {
+    "title": "Toshkent iqtisodiyot va pedagogika instituti",
+    "address": {
+      "city": "Toshkent v. Chirchiq sh.",
+      "street": "Metallurgchilar 13"
+    },
+    "contacts": {
+      "phone": "Tel:",
+      "email": "E-mail:"
+    },
+    "about": {
+      "title": "Institut haqida",
+      "history": "Institut tarixi",
+      "license": "Institut litsenziyasi",
+      "administration": "Adminstratsiya",
+      "management": "Rahbariyat"
+    },
+    "departments": {
+      "title": "Bo'limlar",
+      "finance": "Reja moliya bo'limi",
+      "office": "Devonxona",
+      "spiritual": "Ma'naviyat va ma'rifat bo'limi",
+      "scientific": "Ilmiy bo'lim",
+      "educational": "O'quv departamenti"
+    }
+  },
+  "contact": {
+    "title": "Biz bilan bog'lanish",
+    "form": {
+      "title": "Xabar yuborish",
+      "name": {
+        "placeholder": "Ismingiz"
+      },
+      "phone": {
+        "placeholder": "+998"
+      },
+      "message": {
+        "placeholder": "Xabar"
+      },
+      "submit": "Jo'natish"
+    }
+  }
+}
