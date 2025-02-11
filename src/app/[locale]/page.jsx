@@ -1,3 +1,4 @@
+import CampusLife from "@/components/CampusLife";
 import { ContactForm } from "@/components/Contact";
 import Hero from "@/components/Hero";
 import { Stats } from "@/components/starts";
@@ -105,10 +106,10 @@ export default function HomePage() {
     <div>
       <Hero />
       <Stats />
+      <CampusLife />
       <Universal newsData={NewsData} title="Ilmiy yangiliklar" />
       <Universal newsData={Pedagoglar} title="Pedagoglar" />
       <Universal newsData={Tadbirlar} title="Tadbirlar" />
-
       <ContactForm />
     </div>
   );

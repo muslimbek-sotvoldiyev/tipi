@@ -60,5 +60,8 @@
       },
       "submit": "Send"
     }
+  },
+  "CompusLive": {
+    "compus": "Campus life"
   }
 }
