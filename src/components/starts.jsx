@@ -42,7 +42,7 @@ export function Stats() {
   }, [count1, count2, count3]);
 
   return (
-    <div className="bg-[#363D59] text-white p-8 md:p-16 flex flex-col md:flex-row items-center justify-around">
+    <div className="bg-[#3B4B94] text-white p-8 md:p-16 flex flex-col md:flex-row items-center justify-around">
       <h2 className="text-2xl md:text-[73px] font-bold inline-block border-b border-white pb-5">
         {t("number")}
       </h2>
