@@ -34,7 +34,7 @@ const Card = ({ title, date, image }) => {
 
 export default function Universal({ newsData, title }) {
   return (
-    <div className="bg-gray-100 w-full px-4 sm:px-6 md:px-8 lg:px-12 xl:px-36 pt-8 md:pt-12 lg:pt-20">
+    <div className="bg-gray-100 w-full px-4 sm:px-6 md:px-8 lg:px-12 xl:px-36 pt-8 md:pt-12 lg:pt-20 py-10">
       <h1 className="text-xl md:text-2xl lg:text-[30px] border-b border-black w-40 sm:w-48 lg:w-56 mb-6 md:mb-8 lg:mb-10">
         {title}
       </h1>

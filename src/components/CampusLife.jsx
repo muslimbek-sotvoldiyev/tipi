@@ -14,7 +14,6 @@ export default function CampusLife() {
             →
           </span>
         </h3>
-
         <div className="flex gap-4 flex-nowrap">
           <Link
             href="#cultural-events"
